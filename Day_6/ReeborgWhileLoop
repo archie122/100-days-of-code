@@ -1,0 +1,20 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def jumping():
+    move()
+    turn_left()
+    move()
+    turn_right()
+    move()
+    turn_right()
+    move()
+    turn_left()
+
+while at_goal() == False: #Or you could use while not at_goal():
+    jumping()
+
+#To some degree while loops are considered a bit dangerous, because there may be a possibility for an infinite loop to be created.
+#And this oversight causes the computer to loop continuously without any end.

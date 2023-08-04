@@ -24,9 +24,9 @@ data = pandas.read_csv("weather_data.csv")
 # Whenever you access a column, the data type is pandas.core.series.Series
 
 # Challenge 1
-    # data_dict = data.to_dict()
-    # print(data_dict)
-    # print(data["temp"].to_list())
+# data_dict = data.to_dict()
+# print(data_dict)
+# print(data["temp"].to_list())
 
 # Challenge 2
     # print(round(data["temp"].mean(), 2))

@@ -8,7 +8,9 @@ import pandas
 # {"A": "Alfa", "B": "Bravo"}
 
 data = pandas.read_csv("nato_phonetic_alphabet.csv")
+print(data)
 NATO_dict = {row.letter : row.code for (index, row) in data.iterrows()}
+print(NATO_dict)
 
 # TODO 2. Create a list of the phonetic code words from a word that the user inputs.
 NATO_word = [NATO_dict[letter] for letter in input("Enter a word: ").upper()]

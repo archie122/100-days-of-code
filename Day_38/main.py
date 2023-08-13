@@ -10,13 +10,6 @@ AUTHENTICATION = '509348fdlkjglkjfdgfokj09203kedkdiei120923jrejejfr09sdfu23lkifd
 sheet_endpoint = 'https://api.sheety.co/8dd79b591323e6361ee4aa75abbe72f1/workoutTracker/workouts'
 endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
-# APP_ID = os.environ.get("APP_ID")
-# API_KEY = os.environ.get("API_KEY")
-# USER_ID = os.environ.get("USER_ID")
-# AUTHENTICATION = os.environ.get("AUTHENTICATION")
-# sheet_endpoint = os.environ.get("sheet_endpoint")
-# endpoint = os.environ.get("endpoint")
-
 PROJECT_ID = "workoutTracker"
 SHEET_ID = "workouts"
 
@@ -60,3 +53,4 @@ for x in data['exercises']:
         }
     }
     sheet_response = requests.post(url=sheet_endpoint, json=sheet_inputs, headers=HEADER)
+    print(sheet_response.text)

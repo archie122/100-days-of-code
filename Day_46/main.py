@@ -10,3 +10,6 @@ song_names = soup.select('li ul li h3')
 
 for song in song_names:
     print(song.getText().strip())
+
+# Use : https://developer.spotify.com/documentation/web-api/reference/search
+# Use : https://gist.github.com/angelabauer/e6087a48f9d1a87d4ec15fc29830892b

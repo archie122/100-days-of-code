@@ -1,0 +1,190 @@
+1692461794056	geckodriver	INFO	Listening on 127.0.0.1:50332
+1692461794420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofilehtzwKS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692461794850	Marionette	INFO	Marionette enabled
+2023-08-19 10:16:34.854 firefox-bin[2588:83310] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692461795003	Marionette	INFO	Listening on port 50346
+Read port: 50346
+WebDriver BiDi listening on ws://127.0.0.1:50333
+1692461795172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50333/devtools/browser/d8712ad4-09fb-4b6c-9387-c954efd11b71
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en.fci8ZqcNGw0.O/am=CghAQAAAAAAgAACigHAIYAMYgE_uDAAAQAAABQAAAABgFQGAAYDg_SdpAAQECAEwAGJgDQCUUAJ2AAAAwNgPAAAAAADgABgvAKAQAAdCQAEIAAAAgDwAOA9gOJiwAAAAAAAAAAAAAAIuQTA4ID0XEAABAAAAAAAAAAAAUsnk5QACAGA/d=1/ed=1/dg=2/rs=ACT90oEiLTU2Dejf8F3HqPk8zOBBA1VTcw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe,MdUzUe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;vfVwPd:OXTqFb;VGRfx:VFqbr;BjwMce:cXX2Wb;pNsl2d:j9Yuyc;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;VN6jIc:ddQyuf;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;zxnPse:GkRiKb;xqZiqf:wmnU7d;lkq0A:Z0MWEf;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 412: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.s.en.fci8ZqcNGw0.O/am=CghAQAAAAAAgAACigHAIYAMYgE_uDAAAQAAABQAAAABgFQGAAYDg_SdpAAQECAEwAGJgDQCUUAJ2AAAAwNgPAAAAAADgABgvAKAQAAdCQAEIAAAAgDwAOA9gOJiwAAAAAAAAAAAAAAIuQTA4ID0XEAABAAAAAAAAAAAAUsnk5QACAGA/d=1/ed=1/dg=2/rs=ACT90oEiLTU2Dejf8F3HqPk8zOBBA1VTcw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe,MdUzUe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;vfVwPd:OXTqFb;VGRfx:VFqbr;BjwMce:cXX2Wb;pNsl2d:j9Yuyc;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;VN6jIc:ddQyuf;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;zxnPse:GkRiKb;xqZiqf:wmnU7d;lkq0A:Z0MWEf;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:412:40
+
+JavaScript warning: https://www.youtube.com/s/player/f980f2a9/www-embed-player.vflset/www-embed-player.js, line 860: Script terminated by timeout at:
+S@https://www.youtube.com/s/player/f980f2a9/www-embed-player.vflset/www-embed-player.js:860:131
+Ix<@https://www.youtube.com/s/player/f980f2a9/www-embed-player.vflset/www-embed-player.js:1865:98
+Nk/<@https://www.youtube.com/s/player/f980f2a9/www-embed-player.vflset/www-embed-player.js:844:63
+
+1692461810667	Marionette	INFO	Stopped listening on port 50346
+1692461913609	geckodriver	INFO	Listening on 127.0.0.1:50412
+1692461913614	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofileyomvgY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692461913954	Marionette	INFO	Marionette enabled
+2023-08-19 10:18:33.955 firefox-bin[2624:85833] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692461914093	Marionette	INFO	Listening on port 50421
+Read port: 50421
+WebDriver BiDi listening on ws://127.0.0.1:50413
+1692461914287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50413/devtools/browser/75025bea-62c8-440c-9762-da83d0fa0fe4
+JavaScript warning: https://www.amazon.ca/ line 1980 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 2020: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 266: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:266:670
+
+1692461986737	Marionette	INFO	Stopped listening on port 50421
+1692465060517	geckodriver	INFO	Listening on 127.0.0.1:52679
+1692465061059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofileJooIN3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465061475	Marionette	INFO	Marionette enabled
+2023-08-19 11:11:01.477 firefox-bin[3899:134989] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465061613	Marionette	INFO	Listening on port 52687
+Read port: 52687
+WebDriver BiDi listening on ws://127.0.0.1:52680
+1692465061792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52680/devtools/browser/211d74a6-9d96-4e57-855d-1443122765d4
+JavaScript warning: https://www.amazon.ca/ line 1972 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 2012: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 266: Script terminated by timeout at:
+D/<@https://www.amazon.ca/:266:670
+
+1692465104649	geckodriver	INFO	Listening on 127.0.0.1:52824
+1692465104653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofileBdioNr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465104994	Marionette	INFO	Marionette enabled
+2023-08-19 11:11:44.994 firefox-bin[3927:135935] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465105116	Marionette	INFO	Listening on port 52831
+Read port: 52831
+WebDriver BiDi listening on ws://127.0.0.1:52825
+1692465105300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52825/devtools/browser/ac2ff220-bcf3-4cdb-9868-7e9e593a1bd0
+JavaScript warning: https://www.amazon.ca/ line 1943 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aZrQl3reHFLrXxIU5jTX67bfpJTGr0dfi-1qyyEVSZQ.js line 2 > eval line 2378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.ca/, line 1983: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692465109833	Marionette	INFO	Stopped listening on port 52687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1692465113475	Marionette	INFO	Stopped listening on port 52831
+JavaScript warning: https://fw.adsafeprotected.com/rjss/st/1603645/73180892/skeleton.js, line 927: Script terminated by timeout at:
+h@https://fw.adsafeprotected.com/rjss/st/1603645/73180892/skeleton.js:927:152975
+
+JavaScript warning: https://www.amazon.ca/, line 1879: Script terminated by timeout at:
+y@https://www.amazon.ca/:1879:364
+buildPayload@https://www.amazon.ca/:1883:446
+B@https://www.amazon.ca/:1878:134
+m@https://www.amazon.ca/:1878:465
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692465362853	geckodriver	INFO	Listening on 127.0.0.1:53172
+1692465363433	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofilei9ZNFJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465363769	Marionette	INFO	Marionette enabled
+2023-08-19 11:16:03.771 firefox-bin[3991:139396] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465363892	Marionette	INFO	Listening on port 53180
+Read port: 53180
+WebDriver BiDi listening on ws://127.0.0.1:53173
+1692465364077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53173/devtools/browser/f35481b3-a69c-4df8-a51e-1b791c54a9e2
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692465371295	Marionette	INFO	Stopped listening on port 53180
+1692465588673	geckodriver	INFO	Listening on 127.0.0.1:53243
+1692465588680	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofilelzePKy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465589019	Marionette	INFO	Marionette enabled
+2023-08-19 11:19:49.019 firefox-bin[4025:141627] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465589140	Marionette	INFO	Listening on port 53249
+Read port: 53249
+WebDriver BiDi listening on ws://127.0.0.1:53244
+1692465589330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53244/devtools/browser/c106d42b-855c-4df6-bad2-671fc038e257
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692465596546	Marionette	INFO	Stopped listening on port 53249
+1692465645443	geckodriver	INFO	Listening on 127.0.0.1:53304
+1692465645448	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofilefiZ0fq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465645784	Marionette	INFO	Marionette enabled
+2023-08-19 11:20:45.785 firefox-bin[4046:142555] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465645908	Marionette	INFO	Listening on port 53310
+Read port: 53310
+WebDriver BiDi listening on ws://127.0.0.1:53305
+1692465646092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53305/devtools/browser/149c6454-9c07-4e36-afb7-595f2e729cd1
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692465734886	geckodriver	INFO	Listening on 127.0.0.1:53397
+1692465734891	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofileVl9Coi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465735259	Marionette	INFO	Marionette enabled
+2023-08-19 11:22:15.261 firefox-bin[4064:143691] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465735416	Marionette	INFO	Listening on port 53403
+Read port: 53403
+WebDriver BiDi listening on ws://127.0.0.1:53398
+1692465735604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53398/devtools/browser/5f0bf3d7-f5fb-4a03-9c41-ce046c2d1176
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692465764503	geckodriver	INFO	Listening on 127.0.0.1:53447
+1692465765091	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofile0t80JA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465765480	Marionette	INFO	Marionette enabled
+2023-08-19 11:22:45.481 firefox-bin[4084:144375] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465765620	Marionette	INFO	Listening on port 53460
+Read port: 53460
+WebDriver BiDi listening on ws://127.0.0.1:53448
+1692465765802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53448/devtools/browser/42a6ebc2-352a-439b-aa57-2f353377e480
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692465794989	geckodriver	INFO	Listening on 127.0.0.1:53514
+1692465794994	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofilexnCCjs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692465795391	Marionette	INFO	Marionette enabled
+2023-08-19 11:23:15.393 firefox-bin[4101:145085] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692465795549	Marionette	INFO	Listening on port 53520
+Read port: 53520
+WebDriver BiDi listening on ws://127.0.0.1:53515
+1692465795759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/4bc156ef-8947-4805-9bc3-1316451effa9
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 142: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:142:17
+iz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:429:134
+jz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:429:111
+
+1692465803491	Marionette	INFO	Stopped listening on port 53310
+1692465805500	Marionette	INFO	Stopped listening on port 53403
+1692465810008	Marionette	INFO	Stopped listening on port 53460
+1692465812101	Marionette	INFO	Stopped listening on port 53520
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

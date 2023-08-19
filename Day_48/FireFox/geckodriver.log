@@ -1,0 +1,16 @@
+1692467039970	geckodriver	INFO	Listening on 127.0.0.1:54418
+1692467039976	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/x2/w_plvp953b747yrys1qj5bw80000gn/T/rust_mozprofileNZGaBW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692467040367	Marionette	INFO	Marionette enabled
+2023-08-19 11:44:00.371 firefox-bin[4583:161985] apply_selection_policy_once: avoid use of removable GPUs (via org.mozilla.firefox:GPUSelectionPolicy->avoidRemovable)
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692467040497	Marionette	INFO	Listening on port 54424
+Read port: 54424
+WebDriver BiDi listening on ws://127.0.0.1:54419
+1692467040680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54419/devtools/browser/a09b222b-2f4f-4eac-9c58-33f07039c126
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1692467043189	Marionette	INFO	Stopped listening on port 54424

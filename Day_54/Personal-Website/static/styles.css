@@ -1,0 +1,28 @@
+.css-selector {
+    background: linear-gradient(244deg, #634e79, #904d79, #b84b72, #e56a6f, #d16c65, #e38b75, #ed9d6b, #f9a664, #fdbb5d, #fedb63);
+    background-size: 2000% 2000%;
+
+    -webkit-animation: AnimationName 23s ease infinite;
+    -moz-animation: AnimationName 23s ease infinite;
+    animation: AnimationName 23s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
+}
+
+.container{
+    max-width: 540px;
+}
